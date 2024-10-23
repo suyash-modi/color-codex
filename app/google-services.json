@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151686875321",
+    "project_id": "color-codex-911e",
+    "storage_bucket": "color-codex-911e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151686875321:android:e894dc466c1093ed5af368",
+        "android_client_info": {
+          "package_name": "com.droid.colorcodex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa5vXlpGUT7Gw_Eyj5lrpsvkb61Exg0QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
